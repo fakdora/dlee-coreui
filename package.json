@@ -1,6 +1,6 @@
 {
   "name": "dlee-coreui",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "@storybook/addon-actions": "^3.3.11",
